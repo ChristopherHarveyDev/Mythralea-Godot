@@ -1,0 +1,18 @@
+# Godot files
+.import/
+export/
+*.godot
+*.import
+*.engine.cfg
+*.mono/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.tmp
+*.bak
+
+# Logs
+*.log
