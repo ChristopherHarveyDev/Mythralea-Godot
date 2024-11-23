@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1732302463
+icon.svg::CompressedTexture2D::8890899735825326504::1732287777::1732287785::1::::<><>::
+Login.cs::CSharpScript::-1::1732290106::0::1::::<>VBoxContainer<>::
+::res://GameImages/::1732290385
+::res://Scripts/::1732290404
+::res://Scripts/LoginScripts/::1732292529
+Login.tscn::PackedScene::5593826317045430403::1732292529::0::1::::<><>::res://Login.cs

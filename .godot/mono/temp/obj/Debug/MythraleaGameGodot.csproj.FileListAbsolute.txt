@@ -1,0 +1,17 @@
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.AssemblyInfo.cs
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\bin\Debug\MythraleaGameGodot.deps.json
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\bin\Debug\MythraleaGameGodot.runtimeconfig.json
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\bin\Debug\MythraleaGameGodot.dll
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\bin\Debug\MythraleaGameGodot.pdb
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\Mythrale.251983AD.Up2Date
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.dll
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\refint\MythraleaGameGodot.dll
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.pdb
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\MythraleaGameGodot.genruntimeconfig.cache
+C:\Users\chris\Documents\mythraleagamegodot\.godot\mono\temp\obj\Debug\ref\MythraleaGameGodot.dll

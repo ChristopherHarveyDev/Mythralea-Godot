@@ -1,18 +1,22 @@
-# Godot files
+# Ignore Godot's import directory (cache files, safe to ignore)
 .import/
+
+# Ignore export directory
 export/
-*.godot
-*.import
-*.engine.cfg
-*.mono/
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Backup files
+# Ignore backups and temporary files
 *.tmp
 *.bak
 
-# Logs
-*.log
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# DO NOT ignore critical Godot files
+!project.godot
+!*.tscn
+!*.scn
+!*.gd
+!*.cs
+!*.png
+!*.jpg
