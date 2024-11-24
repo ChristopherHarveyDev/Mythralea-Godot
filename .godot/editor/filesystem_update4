@@ -1,0 +1,13 @@
+res://Scenes/LoadingPatcher.tscn
+res://Scenes/Login.tscn
+res://Scenes/MainMenu.tscn
+res://Scenes/MainMenu.cs
+res://GlobalState.cs
+res://Scripts/LoadingPatcher.cs
+res://Scripts/APIClient.cs
+res://Login.cs
+res://Scripts/visLogin.cs
+res://Scenes/Collection.tscn
+res://Prefabs/Card.tscn
+res://Scripts/CardDisplay.cs
+res://Scripts/Collection.cs

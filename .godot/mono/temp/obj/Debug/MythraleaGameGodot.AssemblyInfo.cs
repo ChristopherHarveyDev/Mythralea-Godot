@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MythraleaGameGodot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0a87dc1d19bf315cfb8ca905b474b9e20616258")]
 [assembly: System.Reflection.AssemblyProductAttribute("MythraleaGameGodot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MythraleaGameGodot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

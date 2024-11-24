@@ -11,9 +11,13 @@ config_version=5
 [application]
 
 config/name="MythraleaGameGodot"
-run/main_scene="res://Scripts/LoginScripts/Login.tscn"
+run/main_scene="res://Scenes/Login.tscn"
 config/features=PackedStringArray("4.3", "C#", "Forward Plus")
 config/icon="res://icon.svg"
+
+[autoload]
+
+GlobalState="*res://GlobalState.cs"
 
 [dotnet]
 

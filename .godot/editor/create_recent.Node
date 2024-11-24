@@ -1,5 +1,9 @@
-Label
-ProgressBar
+TextureRect
 Button
-LineEdit
+GridContainer
+ScrollContainer
+Label
+ColorRect
 VBoxContainer
+ProgressBar
+LineEdit

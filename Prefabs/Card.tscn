@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3 uid="uid://c0aq22ga50h0p"]
+
+[ext_resource type="Script" path="res://Scripts/CardDisplay.cs" id="1_xcija"]
+
+[node name="Card" type="Button"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -128.0
+offset_bottom = 1144.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_xcija")
+
+[node name="CharacterImage" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="CardBack" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
